@@ -8,6 +8,7 @@ const StyleMenu=styled.main`
     background-color:black;
     text-align:center;
     color:white;
+    margin-left:380px;
 `;
 const SectionMenu=styled.section`
     padding:50px;
